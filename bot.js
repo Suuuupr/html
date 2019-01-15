@@ -8,6 +8,7 @@ const fetchVideoInfo = require('youtube-info');
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 const Canvas = require("canvas");
 const jimp = require("jimp");
+const moment = require('moment');
 let points = {}
 var prefix = "#";
 
